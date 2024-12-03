@@ -43,7 +43,7 @@
           <div class="row align-items-center position-relative">
             <div class="col-3">
               <div class="site-logo">
-                <a href="{{ url('/') }}"><strong>CarRental</strong></a>
+                <a href="{{ url('/') }}"><strong>SewaMobilku</strong></a>
               </div>
             </div>
 

@@ -67,6 +67,8 @@ class SettingController extends Controller
     {   
         $setting->update($request->validated());
 
+        \Log::info('Data updated successfully', ['id' => $setting->id]);
+
         return redirect()->route('admin.settings.index')->with([
             'message' => 'berhasil di edit',
             'alert-type' => 'info'

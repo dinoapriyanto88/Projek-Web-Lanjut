@@ -59,8 +59,7 @@
                   <span class="number text-primary">01.</span>
                   <h3>Pilih Mobil</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Vero, laboriosam!
+                  Tentukan mobil yang sesuai dengan kebutuhan Anda dari berbagai pilihan kami.
                   </p>
                 </div>
               </div>
@@ -72,8 +71,7 @@
                   <span class="number text-primary">02.</span>
                   <h3>Isi Form</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Vero, laboriosam!
+                  Lengkapi data diri dan informasi pemesanan dengan mudah melalui form yang tersedia.
                   </p>
                 </div>
               </div>
@@ -85,8 +83,7 @@
                   <span class="number text-primary">03.</span>
                   <h3>Pembayaran</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Vero, laboriosam!
+                  Lakukan pembayaran dengan metode yang nyaman untuk mengonfirmasi pemesanan Anda.
                   </p>
                 </div>
               </div>
@@ -114,13 +111,10 @@
                 >
               </h3>
               <p class="mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Repudiandae, explicabo iste a labore id est quas, doloremque
-                veritatis! Provident odit pariatur dolorem quisquam,
-                voluptatibus voluptates optio accusamus, vel quasi quidem!
+              Tim kami berdedikasi untuk memastikan setiap pelanggan mendapatkan pengalaman terbaik, mulai dari proses pemesanan yang mudah, kendaraan yang selalu dalam kondisi prima, hingga layanan pelanggan yang responsif dan ramah. Kami berkomitmen untuk memberikan solusi transportasi yang nyaman, aman, dan terpercaya sesuai kebutuhan Anda.
               </p>
 
-              <p><a href="#" class="btn btn-primary">Kontak Kami</a></p>
+              <p><a href="https://wa.me/62895605929909?text=Halo,%20saya%20ingin%20bertanya%20mengenai%20layanan%20Sewamobilku.%20Bisakah%20saya%20mendapatkan%20informasi%20lebih%20lanjut" class="btn btn-primary">Kontak Kami</a></p>
             </div>
           </div>
         </div>
@@ -132,7 +126,7 @@
             <div class="col-lg-7">
               <h2 class="section-heading"><strong>Daftar Mobil</strong></h2>
               <p class="mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Kami menyediakan berbagai pilihan mobil yang dapat disesuaikan dengan kebutuhan Anda. Setiap kendaraan selalu dirawat secara berkala untuk memastikan kenyamanan dan keamanan selama perjalanan.
               </p>
             </div>
           </div>
@@ -181,7 +175,7 @@
             <div class="col-lg-7">
               <h2 class="section-heading"><strong>Testimonial</strong></h2>
               <p class="mb-5">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Berikut adalah pengalaman dari pelanggan kami yang telah menggunakan layanan SewaMobilku. Kepuasan mereka menjadi prioritas utama kami dalam memberikan pelayanan terbaik.
               </p>
             </div>
           </div>
